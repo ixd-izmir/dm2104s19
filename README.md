@@ -27,7 +27,7 @@ Upon successful completion of this course, the enrolled students will be gaining
 | 4 | Feb 27 |  | Lowgren Reading |
 | 5 | Mar 6 |  | [Photographic Survey](https://github.com/ixd-izmir/dm2104s19/blob/master/assignments/photographicSurvey.md) |
 | 6 | Mar 13 |  | [Historical Resarch](https://github.com/ixd-izmir/dm2104s19/blob/master/assignments/historicalResearch.md), Lowgren Reading |
-| 7 | Mar 20 | Midterm Review | Design Methodologies Workbook Submission (PT.1) |
+| 7 | Mar 20 | Midterm Review | [Design Methodologies Workbook Submission (PT.1)](https://github.com/ixd-izmir/dm2104s19/blob/master/assignments/midterm.md) |
 | 8 | Mar 27 |  | |
 | 9 | Apr 3  |  | |
 | 10 | Apr 10  |  | |

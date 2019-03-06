@@ -19,7 +19,7 @@ Syllabus for Yasar University 2nd Year Design Methodologies, Spring 2019
 | 3 | Feb 20 |  | Kolko Readings |
 | 4 | Feb 27 |  | Lowgren Reading |
 | 5 | Mar 6 |  | Photographic Survey |
-| 6 | Mar 13 |  | [Historical Resarch](https://github.com/ixd-izmir/), Lowgren Reading |
+| 6 | Mar 13 |  | [Historical Resarch](https://github.com/ixd-izmir/dm2104s19/blob/master/assignments/historicalResearch), Lowgren Reading |
 | 7 | Mar 20 | Midterm Review | Design Methodologies Workbook Submission (PT.1) |
 | 8 | Mar 27 |  | |
 | 9 | Apr 3  |  | |

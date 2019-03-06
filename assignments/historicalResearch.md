@@ -17,3 +17,6 @@ Possible research data:
 - [National Library](http://www.visitizmir.org/en/page/-942339/-556949/-785546/-118975)
 - [Izmir Tarihi](http://www.izmirtarih.com.tr)
 - [Tarkem](http://www.tarkem.com/en/)
+
+##References
+- M3.2 Literature Searching in Jones (1992) Design Methods pp. 201-208

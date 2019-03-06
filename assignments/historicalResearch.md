@@ -1,6 +1,6 @@
 # Historical research
 ----
-historical research research involving analysis of events that occurred in the remote or -recent- past.
+research involving analysis of events that occurred in the remote or -recent- past.
 ----
 Produce a report (start your booklet layout with these info) collecting all research data found about your han.
 Possible research data:

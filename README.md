@@ -25,7 +25,7 @@ Upon successful completion of this course, the enrolled students will be gaining
 | 2 | Feb 13 |  | Munari Reading |
 | 3 | Feb 20 |  | Kolko Readings |
 | 4 | Feb 27 |  | Lowgren Reading |
-| 5 | Mar 6 |  | Photographic Survey |
+| 5 | Mar 6 |  | [Photographic Survey](https://github.com/ixd-izmir/dm2104s19/blob/master/assignments/photographicSurvey) |
 | 6 | Mar 13 |  | [Historical Resarch](https://github.com/ixd-izmir/dm2104s19/blob/master/assignments/historicalResearch), Lowgren Reading |
 | 7 | Mar 20 | Midterm Review | Design Methodologies Workbook Submission (PT.1) |
 | 8 | Mar 27 |  | |

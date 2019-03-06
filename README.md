@@ -1,13 +1,20 @@
 # dm2104s19
 Syllabus for Yasar University 2nd Year Design Methodologies, Spring 2019
+## Learning Outcomes
+Upon successful completion of this course, the enrolled students will be gaining the following knowledge, skills and competences:
+- Recognize methods, tools and design frameworks
+- Choose methods appropriate to a specific context
+- Distill the findings of research and represent them
+- Organize activities and prepare an executive plan
+- Develop observational capacity in visual and verbal presentations
 
 ## Assessment
 
 | | | |
 |-|-|-|
-|1| MidTerm  |10%|
-|10| Practice |20%|
-|1| Final Project |35%|
+|1| MidTerm  | 30% |
+|13| Homework | 30% |
+|1| Final Examination | 40% |
 
 
 ## Schedule

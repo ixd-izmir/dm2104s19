@@ -20,7 +20,7 @@ Upon successful completion of this course, the enrolled students will be gaining
 ## Schedule
 
 | Week | Date | Subject | Assignments | Reading Responses |
-|:---:|:-------------|:-------------| -----:| :-----|
+|:----:|:-----|:--------| -----------:| :---------------- |
 | 1 | Feb 6 | Intro | - | - |
 | 2 | Feb 13 |  | | Design as Art, Munari (pp.29-32) |
 | 3 | Feb 20 |  | | Exposing the Magic of Design, Kolko (pp.3-10) |

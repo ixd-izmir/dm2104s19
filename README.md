@@ -35,3 +35,12 @@ Upon successful completion of this course, the enrolled students will be gaining
 | 12 | Apr 24  |  | | |
 | 13 | May 1  |  | Holiday | |
 | 14 | May 8  |  | Final Submission of (Group) Han Research Booklet, (Individual) Design Methodologies Workbook| |
+
+## References
+[Design Sprint Kit](https://designsprintkit.withgoogle.com/introduction/overview)
+[Atomic object](https://atomicobject.com)
+[Mozilla toolkit](https://toolkit.mozilla.org)
+[Usability us.gov](https://www.usability.gov)
+[Frogthink](https://www.frogdesign.com/portfolio/frogthink)
+[Frog collective-action-toolkit](https://www.frogdesign.com/work/frog-collective-action-toolkit)
+
